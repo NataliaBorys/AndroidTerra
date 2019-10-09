@@ -8,8 +8,8 @@
 #include <ESP8266mDNS.h>;
  
 // change these values to match your network
-char ssid[] = "WLAN3";       //  your network SSID (name)
-char pass[] = "87102008970";    // your network password
+char ssid[] = "";       //  your network SSID (name)
+char pass[] = "";    // your network password
  
 WiFiServer server(80);
  
